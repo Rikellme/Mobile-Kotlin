@@ -1,0 +1,34 @@
+//Declarando uma variavel
+var idade = 22 
+var altura : Double = 1.9
+var num = 5
+
+//Declarando Constante
+val nascimento = "01/06/2003"
+val sexo = "M"
+
+
+//Operadores Aritméticos + - / * %
+val soma = 100 + 100
+val mod = 25 % 2
+val div = 56/3
+val mult = 3 * 0 
+
+//Operadores Lógicos && || ! 
+//Operadores de incremento e decremento ++  --
+//Operador de Atribuição =
+//Operador de Igualdade == diferente !=
+//Operador de comparação >, <, >=, <=
+
+
+//Estrutura de Condição
+
+
+fun main() {
+//Estrutura de Condi��o
+if ((num%2)==0) {
+    println ("Este número é Par")
+}else{
+    println ("Este Número é Impar")
+}
+}
